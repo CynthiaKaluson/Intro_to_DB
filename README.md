@@ -77,48 +77,4 @@ mysql -u root -p alx_book_store -e "SHOW TABLES;"
 
 ✅ Task 6: Multiple records insertion
 
-🎓 Key Concepts Demonstrated
-Relational database design
-
-Primary and foreign keys
-
-SQL data types and constraints
-
-Python-MySQL integration
-
-CRUD operations implementation
-
-Database normalization principles
-
-🔧 SQL Skills Acquired
-CREATE DATABASE/TABLE
-
-INSERT operations
-
-SELECT queries
-
-Foreign key relationships
-
-Data type selection
-
-Schema design best practices
-
-📈 Future Enhancements
-Add UPDATE and DELETE operations
-
-Implement complex queries with JOINs
-
-Add database indexes for performance
-
-Create stored procedures and triggers
-
-Build a web interface for the bookstore
-
 ALX Software Engineering Program - Database Fundamentals Project
-
-This README provides:
-- Clear project overview
-- Professional structure
-- Easy-to-follow setup instructions
-- Comprehensive documentation of what was learned
-- Professional presentation for your GitHub portfolio
